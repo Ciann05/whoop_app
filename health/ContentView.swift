@@ -243,7 +243,7 @@ class BluetoothManager: NSObject, ObservableObject, CBCentralManagerDelegate, CB
         centralManager = CBCentralManager(
             delegate: self,
             queue: .main,
-            options: [CBCentralManagerOptionRestoreIdentifierKey: "com.cyrus.health.restore"]
+            options: [CBCentralManagerOptionRestoreIdentifierKey: "com.ciannamalan.health.restore"]
         )
     }
 

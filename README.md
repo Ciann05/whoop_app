@@ -30,7 +30,7 @@ The app looks for the Heart Rate Measurement characteristic (`2A37`). The simula
 4. Build and run.
 5. Allow Bluetooth when prompted, then wear the strap. The app scans automatically and connects to the first heart-rate peripheral it finds.
 
-Bundle identifier: `com.cyrusamalan.health`.
+Bundle identifier: `com.ciannamalan.health`.
 
 ## Project layout
 
